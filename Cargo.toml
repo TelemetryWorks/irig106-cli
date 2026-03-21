@@ -1,0 +1,7 @@
+[package]
+name = "irig106-cli"
+version = "0.0.1"
+edition = "2024"
+description = "A lightning-fast command-line tool for IRIG 106 telemetry diagnostics, inspection, and workflow automation."
+repository = "https://github.com/TelemetryWorks/irig106-cli" 
+license = "Apache-2.0"
